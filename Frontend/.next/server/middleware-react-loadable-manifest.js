@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"pages\\\\dashboard.tsx -> ./CandlestickChart\":{\"id\":\"pages\\\\dashboard.tsx -> ./CandlestickChart\",\"files\":[\"static/chunks/src_pages_CandlestickChart_tsx.js\"]}}"

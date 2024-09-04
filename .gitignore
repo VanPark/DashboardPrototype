@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Environment variables
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Django specific
+*.log
+*.sqlite3
